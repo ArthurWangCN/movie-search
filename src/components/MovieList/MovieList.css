@@ -1,0 +1,23 @@
+.list-wrapper {
+    /* padding: 20px; */
+    box-sizing: border-box;
+}
+
+.movie-item-wrapper {
+    display: inline-block;
+    /* float: left; */
+    width: 20%;
+    box-sizing: border-box;
+    padding: 10px;
+}
+.movie-item {
+    border: 1px solid #eee;
+}
+.movie-item img {
+    width: 100%;
+    border-bottom: 1px solid #eee;
+}
+.movie-item p {
+    margin-top: 10px;
+    text-align: center;
+}
